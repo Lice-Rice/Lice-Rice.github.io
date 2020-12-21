@@ -6,3 +6,4 @@
 ## Pink Sheep
 <img src="https://github.com/Lice-Rice/Lice-Rice.github.io/raw/main/icon.png"><br>
 Above is a picture of me chasing a pink sheep that I later killed. It is the icon of one of my many Minecraft worlds.
+## <a href="https://github.com/Lice-Rice/Lice-Rice.github.io/">Backups of my story</a>
