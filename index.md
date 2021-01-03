@@ -1,9 +1,8 @@
 # Lice-Rice's Website
-## Glossary
-### "Oh my meat!"
+## "Oh my meat!"
 "Oh my meat" is a phrase that is an alternative to swearing.
 <br>
-### "What the meat?"
+## "What the meat?"
 "What the meat" is a phrase that is an alternative to swearing.
 <br>
 ## Pink Sheep
