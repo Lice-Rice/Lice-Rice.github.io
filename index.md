@@ -1,4 +1,3 @@
-# Lice-Rice's Website
 ## "Oh my meat!"
 "Oh my meat" is a phrase that is an alternative to swearing.<br>
 ## "What the meat?!"
